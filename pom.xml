@@ -4,7 +4,7 @@
 
   <groupId>com.rxp170</groupId>
   <artifactId>rpm-hello-world</artifactId>
-  <version>0.0.1</version>
+  <version>1</version>
   <packaging>jar</packaging>
 
   <name>rpm-hello-world</name>
