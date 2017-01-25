@@ -5,7 +5,7 @@ Summary:	${project.description}
 
 Group:		Applications/System			
 License:	MIT	
-URL:		https://github.com/Chomeh/java-rpm-example.git		
+URL:		https://github.com/richardpaps/rpm-hello-world.git		
 Source0:	%{name}-%{version}-rpm.tar.gz	
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 BuildArch:	noarch
