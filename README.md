@@ -19,6 +19,9 @@ rpmdev-setuptree
 #Using this git as a good example to test what we would need to do to get it running on one of our spring boot apps.
 git clone https://github.com/Chomeh/java-rpm-example.git
 
+#Basically a copy of above git, will be updated to use systemd
+git clone https://github.com/richardpaps/rpm-hello-world.git
+
 cd java-rpm-example
 
 #Build package in to target
