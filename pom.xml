@@ -51,7 +51,7 @@
   			<version>2.6</version>
   			<configuration>
   				<excludes>
-  					<exclude>**/myservice2.properties</exclude>
+  					<exclude>**/myservice.properties</exclude>
   					<exclude>**/logback.xml</exclude>
  				</excludes>
  			</configuration>
