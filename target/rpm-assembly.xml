@@ -28,7 +28,7 @@
       <outputDirectory>/config</outputDirectory>
       <filtered>true</filtered>
       <includes>
-        <include>rpm-hello-world.properties</include>
+        <include>rpmHelloWorld.properties</include>
       </includes>
      </fileSet>
   </fileSets>
