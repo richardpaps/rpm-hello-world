@@ -1,4 +1,4 @@
-package com.rxp170.rpm_hello_world;
+package com.rxp170.rpmHelloWorld;
 
 
 import org.springframework.boot.SpringApplication;
